@@ -1,22 +1,3 @@
-OfferDesk 报价单赚钱助手
-
-闲鱼商品标题：
-自由职业接单报价单工具 自动算利润率 可生成客户报价单
-
-闲鱼商品详情：
-这是一个给自由职业者、小团队和接单工作室用的报价单工具。
-
-适合设计、开发、摄影、咨询、运营等服务报价。输入项目、单价和内部成本后，它会自动计算总价、折扣、税费、首付款、利润和利润率，也能生成一份可发给客户的报价单。
-
-成本只给自己看，客户报价单不显示成本。免费版可以试用，专业版 29 元去水印。
-
-试用链接：
-https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/sales.html
-
-付款后提交邮箱和付款信息，确认到账后发送授权码。
-
-朋友圈/群聊版：
-
 我做了一个报价单工具，给自由职业者、小团队和接单工作室用。
 
 它能算成本、利润率、首付款，还能生成可以发给客户的报价单。免费版能试用，29 元专业版去水印。
@@ -26,10 +7,9 @@ https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/sales.html
 
 如果觉得适合，再点页面里的 29 元购买专业版。
 
-付款页：
-https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/pay.html
+成交页：
+https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/buy.html
 
-付款后提交信息：
-https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/after-pay.html
+接入自动收款平台后，付款平台会自动把授权码发到你的邮箱。收到后回到工具里输入授权码即可去水印。
 
 客服邮箱：534403209@qq.com

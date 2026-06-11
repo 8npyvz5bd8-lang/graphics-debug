@@ -10,6 +10,18 @@
 4. 私信 10 个真实接单的人。
 5. 每联系 1 个人，都记录到 `launch/sales-tracker.csv`。
 
+发图时优先用这 3 张：
+
+- `launch/social-cover.jpg`
+- `launch/social-profit.jpg`
+- `launch/social-delivery.jpg`
+
+线上预览入口：
+
+- 商品封面图：https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/launch/social-posters.html?poster=cover
+- 痛点说明图：https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/launch/social-posters.html?poster=profit
+- 交付说明图：https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/launch/social-posters.html?poster=delivery
+
 ## 闲鱼商品版
 
 标题：

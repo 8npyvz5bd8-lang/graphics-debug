@@ -12,4 +12,7 @@ https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/sales.html
 付款页：
 https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/pay.html
 
+付款后提交信息：
+https://8npyvz5bd8-lang.github.io/graphics-debug/offerdesk/after-pay.html
+
 客服邮箱：534403209@qq.com
